@@ -7,10 +7,8 @@
  */
 int main(void)
 {
-	char new_string[] = "\"
-		Programming is like building a multlingual puzzle";
-
-	puts(new_string);
+	printf("
+	with proper grammar, but the outcome is a piece of art,\n");
 
 	return(0);
 }
