@@ -10,4 +10,8 @@ int main(void)
 
 	write(2, str1, 59);
 	return (1);
+<<<<<<< HEAD
 } 
+=======
+}
+>>>>>>> fce152b3c05a0e56a83fc1399b5f5e7f972b6855
