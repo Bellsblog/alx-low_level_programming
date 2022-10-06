@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-#ifndef _MAIN_H_
-#define _MAIN_H_
-=======
 #ifndef FILE_MAIN
 #define FILE_MAIN
 
 /*copy list from task*/
->>>>>>> 0c6396f3723c70e791774eb9b87b92a39a4a093c
 
 int _putchar(char c);
 int _islower(int c);
